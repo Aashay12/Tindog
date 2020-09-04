@@ -217,6 +217,11 @@ body {
         position: static;
         right: 33%;
     }
+
+    #features {
+        position: static;
+    }
+
     #title{
         text-align: center;
     }

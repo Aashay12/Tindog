@@ -124,7 +124,7 @@ body {
 }
 
 .press-logo{
-    width: 10%;
+    width: 13%;
     margin: 15px 20px 50px;
 }
 
@@ -135,6 +135,9 @@ body {
 
 /* Pricing */
 
+.card{
+    height: 25rem;
+}
 .pricing{
     padding: 100px;
     text-align: center;

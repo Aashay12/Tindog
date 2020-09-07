@@ -9,7 +9,6 @@ body {
 }
 
 .title-text h1 {
-    font-family: 'Montserrat-black', sans-serif;
     font-size: 3.5rem;
     font-weight: 700;
     line-height: 1.5;
@@ -245,5 +244,17 @@ body {
     }
     .container-fluid1{
         padding-left: 15%;
+    }
+    #features {
+        justify-content: center;
+        padding: 4% 7%;
+    }
+
+    .navbar {
+        padding: 0 0 3.5rem;
+    }
+    
+    .container-fluid1 {
+        padding: 3% 7%;
     }
 }

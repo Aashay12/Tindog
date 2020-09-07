@@ -254,6 +254,11 @@ body {
         padding: 3% 7%;
     }
 
+    .testimonials-h2{
+        font-size: 1.8rem;
+       
+    }
+
 }
 
 @media (max-width:768px){

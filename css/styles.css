@@ -255,3 +255,11 @@ body {
     }
 
 }
+
+@media (max-width:768px){
+    .nav-link {
+        font-size: 1.8rem;
+        text-align: left;
+    }
+    
+}

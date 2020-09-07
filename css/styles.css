@@ -247,7 +247,7 @@ body {
     }
     #features {
         justify-content: center;
-        padding: 4% 7%;
+        padding: 2% 0%;
     }
 
     .navbar {
@@ -256,5 +256,9 @@ body {
     
     .container-fluid1 {
         padding: 3% 7%;
+    }
+
+    .nav-link {
+        font-size: 2rem;
     }
 }
